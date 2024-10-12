@@ -1,0 +1,22 @@
+{
+  "name": "maiplus-game-launcher",
+  "version": "0.0.1",
+  "main": "run.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fulka50/PS5-UI--manette-.git"
+  },
+  "author": "Kay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fulka50/PS5-UI--manette-/issues"
+  },
+  "homepage": "https://github.com/Fulka50/PS5-UI--manette-#readme",
+  "description": "",
+  "devDependencies": {
+    "electron": "^32.2.0"
+  }
+}
